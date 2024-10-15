@@ -1,0 +1,13 @@
+.allCategories{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.explore{
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(36, 36, 36);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.829);
+}
